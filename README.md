@@ -13,6 +13,6 @@ For this project I intend to answer the following questions:
 Conclusion¶
 1. 1986, 2001, 2007 and 2009 recorded the most prison breakout attempt with a helicopter. 
 
-2. Also, France has had more recorded helicopter escape attempts than any other country, with at 15 attempts.
+2. France has had more recorded helicopter escape attempts than any other country, with 15 attempts.
 
 
